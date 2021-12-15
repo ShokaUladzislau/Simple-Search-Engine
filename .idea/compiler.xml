@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-test-results.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-tmp.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_array-Accordance.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_array-Corners.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_array-Cube_of_zeros.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_array-Kotlin_arrays.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multi-dimensional_array-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Scopes-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Simple_Search_Engine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
